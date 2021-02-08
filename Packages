@@ -6,7 +6,7 @@ Description: It will install some essential tweaks for my device.
 Maintainer: kva <kva@mail.xyz>
 Author: kva <kva@mail.xyz>
 Section: Tweaks
-Depends: com.dpkg.ipadswitcher, com.hackyouriphone.igmusicplus, com.hackyouriphone.ninstalled, com.hackyouriphone.tenmetsu, com.julioverne.ytnoautoplay, com.lema.dragontweak, com.miro.langswipe, com.mrgcgamer.activatorcrashfix14, com.pxcex.bearhack, com.pxcex.youtweetdownloader, com.sugi.noshuttersound++, mterminal, openssh, ru.danpashin.twackup, com.cydiageek.carrierizer, com.hackyouriphone.appstoreplusplus, com.hackyouriphone.igcommenttranslate, com.hackyouriphone.localiapstore, com.hackyouriphone.storeswitcher2, com.julioverne.mimport, com.justinpet26.youtubeoriginal, com.lema.michael.rhino, com.miro.tranzlo, com.noisyflake.ipadstatusbar, com.pxcex.adobesparkposthack, com.pxcex.turbovpnhack
+Depends: com.pxcex.bearhack
 Filename: ./debs/com.kva.startertweak.deb
 Size: 3068
 MD5sum: 32877191de184ac15c78780b2964cb5c
