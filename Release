@@ -1,8 +1,8 @@
-Origin: <Your Repo’s Name>
-Label: <Your Repository’s Label >
+Origin: エルです
+Label: kva
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: <Your Repo’s Display Name>
+Description: Personal repo for my own use.
