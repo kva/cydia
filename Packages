@@ -1,15 +1,15 @@
 Package: com.kva.blackwhite
 Name: Black White Theme
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: It will install some essential tweaks for my device.
+Description: My first theme
 Maintainer: kva <kva@mail.xyz>
 Author: kva <kva@mail.xyz>
 Section: Theme
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./Debs/com.kva.blackwhite.deb
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: debs/com.kva.blackwhite.deb
 Size: 28556
 MD5sum: fa9230e27adf2bcb5f3f4d070bff5c70
 SHA1: 5f6b9a0ab394dc6e682d53a5e57c3a2f1e6bd011
-SHA256: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71ffd9bf3051feac970e0ae272955d39c240ee9bf2dca5c69ea9bd948f1
+SHA256: fc682f8bb50c7deccea1e6a81e841f8dd32df335ccc7414b22e252c06f420224
 SHA512: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71ffd9bf3051feac970e0ae272955d39c240ee9bf2dca5c69ea9bd948f1
