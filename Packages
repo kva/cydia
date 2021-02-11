@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: My first theme
 Maintainer: kva <kva@mail.xyz>
 Author: kva <kva@mail.xyz>
-Section: Theme
+Section: Themes
 Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: debs/com.kva.blackwhite.deb
 Size: 28556
@@ -16,12 +16,12 @@ SHA512: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71f
 
 Package: com.kva.family
 Name: Family Theme
-Version: 1.1
+Version: 0.1
 Architecture: iphoneos-arm
 Description: Family Theme
 Maintainer: kva <kva@mail.xyz>
 Author: kva <kva@mail.xyz>
-Section: Theme
+Section: Themes
 Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: debs/com.kva.family.deb
 Size: 6646680

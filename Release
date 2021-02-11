@@ -1,7 +1,7 @@
 Origin: エルです
 Label: kva
 Suite: stable
-Version: 1.1
+Version: 0.9
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
