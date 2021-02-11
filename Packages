@@ -13,3 +13,19 @@ MD5sum: fa9230e27adf2bcb5f3f4d070bff5c70
 SHA1: 5f6b9a0ab394dc6e682d53a5e57c3a2f1e6bd011
 SHA256: fc682f8bb50c7deccea1e6a81e841f8dd32df335ccc7414b22e252c06f420224
 SHA512: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71ffd9bf3051feac970e0ae272955d39c240ee9bf2dca5c69ea9bd948f1
+
+Package: com.kva.family
+Name: Family Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Family Theme
+Maintainer: kva <kva@mail.xyz>
+Author: kva <kva@mail.xyz>
+Section: Theme
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: debs/com.kva.family.deb
+Size: 5246762
+MD5sum:  c16510f3258c69c139db29b5a00ad855
+SHA1: f4e76ec6c2d7e0287b0779f6844655038e8712da
+SHA256: efbd5160251d12b062478e482984ebb9516107c1b442c508eb8138e1830e1919
+SHA512: 77b5fbec0a138bad7f47b3be0175c3a6bb066fb428f39daa1798e306f39430a0517e9fcfaf2b4262c7c59661a2c5123c2b147a778e2e34098d64d718e6cba960
