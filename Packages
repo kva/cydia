@@ -1,6 +1,6 @@
 Package: com.kva.blackwhite
 Name: Black White Theme
-Version: 1.3
+Version: 1.0
 Architecture: iphoneos-arm
 Description: My first theme
 Maintainer: kva <kva@mail.xyz>
@@ -16,7 +16,7 @@ SHA512: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71f
 
 Package: com.kva.family
 Name: Family Theme
-Version: 1.3
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Family Theme
 Maintainer: kva <kva@mail.xyz>
