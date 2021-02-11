@@ -1,15 +1,15 @@
-Package: com.kva.startertweak
-Name: My Starter Tweak
-Version: 1.0
+Package: com.kva.blackwhite
+Name: Black White Theme
+Version: 1.1
 Architecture: iphoneos-arm
 Description: It will install some essential tweaks for my device.
 Maintainer: kva <kva@mail.xyz>
 Author: kva <kva@mail.xyz>
-Section: Tweaks
-Depends: com.pxcex.bearhack
-Filename: ./debs/com.kva.startertweak.deb
-Size: 3068
-MD5sum: 32877191de184ac15c78780b2964cb5c
-SHA1: 48acd048ab28bc58e89e59214ff4dbf8f5c3c028
-SHA256: ba1e2e5ee72db169cacb2da9f696c99a42979a52aab25108c7780d9034b98cff
-SHA512: b84d6980ecdab55b05d9ccf69d32c8479a7bfffe11ec6400acb4e3f2484045f880a04e6482f89a388aeee6638fafa4d719b94e1bb51c0d55e4df5d77c93d7f2b
+Section: Theme
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./Debs/com.kva.blackwhite.deb
+Size: 28556
+MD5sum: fa9230e27adf2bcb5f3f4d070bff5c70
+SHA1: 5f6b9a0ab394dc6e682d53a5e57c3a2f1e6bd011
+SHA256: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71ffd9bf3051feac970e0ae272955d39c240ee9bf2dca5c69ea9bd948f1
+SHA512: 6c8002cb4e22444dc5f5d2c2ddeaaa3a29cb3c75fe087924e63019aa6daa20a6197ae71ffd9bf3051feac970e0ae272955d39c240ee9bf2dca5c69ea9bd948f1
