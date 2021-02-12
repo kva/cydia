@@ -1,5 +1,6 @@
 #!/bin/bash
 # Program to check file size
+# Create by kva.github.io
 # Output from this program became input for file Packages
 # Usage, run in terminal: ./program.sh filename.deb
 
