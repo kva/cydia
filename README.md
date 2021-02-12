@@ -1,5 +1,5 @@
 # cydia
-iOS Cydia Repository at [kva.github.io/cydia](http://kva.github.io/cydia)
+iOS Cydia Repository
 
 ## Getting Started
 This repo I used to store my tweak and theme. 
