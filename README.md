@@ -14,7 +14,7 @@ This repo I used to store my tweak and theme.
 
 ## This repo build with
 - Inskcape - create icons
-- Geany - text editor
+- Geany - edit text file
 - dpkg - build `.deb` file
 - ssh - connecting computer to iOS device
 - git - upload tweak/theme to repository
