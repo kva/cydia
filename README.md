@@ -9,7 +9,7 @@ This repo I used to store my tweak and theme.
 - Cydia installed
 
 ## Installation
-- [Install Repo](cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2Fkva.github.io/cydia)
+- Visit [kva.github.io/cydia](http://kva.github.io/cydia) to install this repo
 - You can install my tweak or theme via cydia
 
 ## This repo build with
