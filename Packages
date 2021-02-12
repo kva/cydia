@@ -29,3 +29,19 @@ MD5sum:  3ce81314d0ff5fede8c5ec78500f76f0
 SHA1: a71bf963de5fc5d3b619dfbbf7a9d8f7982ff7b6
 SHA256: 4f1bef6cc4132de5a6725652f9fe0a9381487aa0c2d719777e541446c1905d4c
 SHA512: 16b1a0484f5dddd9f6755792200135515d41ba09d95a759cf8c70be6c1cb0b110394cb1b917c9401ad54ecf9be3e6aab036c5003ebad4a91c8251d0e63feb8dc
+
+Package: com.kva.whiteoutline
+Name: White Outline
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Outline icons with white colour
+Author: kva <kva@mail.xyz>
+Section: Themes
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: debs/com.kva.whiteoutline.deb
+Size: 86608
+MD5sum: 729563920eebda2f2e78f2872390f855
+SHA1: 53d99d2a5c780968c2ede22c142fc654cae44f7f
+SHA256: 62b1fd6779b637fa2293718773c58ee205d1b88bbe2de09532013c354ae37656
+SHA512: 2572cf125c9b16d1bfaeb014c6831c87d0fb4e84392b6fa627f91ea13f38ccf9a3a0a8fe21d46e46b4d037a5f87f5afcd1ad79605fc8e2ec59e45af423263df1
+
