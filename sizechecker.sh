@@ -14,3 +14,4 @@ echo -ne "SHA256: "
 echo   -n   $1 | sha256sum $1 | awk '{print $1}'
 echo -ne "SHA512: "
 echo   -n   $1 | sha512sum $1 | awk '{print $1}'
+
