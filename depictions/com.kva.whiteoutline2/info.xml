@@ -1,0 +1,38 @@
+<package>
+  <id>com.kva.whiteoutline2</id>
+  <name>White Outline</name>
+  <version>0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>11.0</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.anemonetheming.anemone, com.spark.snowboard</package>
+  </dependencies>
+  <shortDescription>My First Theme. Tested in iOS 14.0 iPhone 6s</shortDescription>
+  <descriptionlist>
+    <description>This theme contain white icons. White stroke with 20px width and transparent background</description>
+    <description><![CDATA[
+    If you want custom theme,<br/> 
+    feel free to contact me
+    ]]>
+    </description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Home screen icons</description>
+      <image>whiteoutline.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change>Add some icons</change>
+  </changelog>
+  <links>
+    <link>
+      <name>github.com/kva</name>
+      <url>https://www.github.com/kva</url>
+      <iconclass>fa fa-github</iconclass>
+    </link>
+  </links>
+</package>
